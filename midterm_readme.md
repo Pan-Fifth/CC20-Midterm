@@ -4,7 +4,7 @@
 
 ### Document for Endpoint [Click!](http://cc20-todo-midterm-env.eba-fi9p2pds.ap-southeast-1.elasticbeanstalk.com/swagger-ui/index.html#/)
 
-baseURL: "http://54.252.155.248"
+baseURL: "http://cc20-todo-midterm-env.eba-fi9p2pds.ap-southeast-1.elasticbeanstalk.com"
 
 - [x] : API V1 TODO
 - [] : API V2 TODO CRUD WITH AUTHENTICATED
